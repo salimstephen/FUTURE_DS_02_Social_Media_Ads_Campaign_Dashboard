@@ -78,6 +78,6 @@ The interactive Power BI dashboard includes:
 ---
 
 ## 👤 Author
-**Stephen Otieno**  
+**Stephen (Salim) Otieno**  
 Aspiring Data Scientist | Future Interns Program  
 
