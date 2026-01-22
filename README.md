@@ -1,11 +1,11 @@
-# 📊 Social Media Ad Campaign Performance Dashboard
+#  Social Media Ad Campaign Performance Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an end-to-end analysis of social media advertising campaign performance using simulated Facebook and Instagram Ads data. The dashboard was built in Power BI to help stakeholders evaluate campaign effectiveness, identify top-performing ads and audience segments, and optimize future marketing spend.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Assess overall ad campaign performance
 - Identify top-performing ads and campaigns
 - Analyze audience engagement and conversion efficiency
@@ -14,7 +14,7 @@ This project presents an end-to-end analysis of social media advertising campaig
 
 ---
 
-## 🧾 Dataset Description
+##  Dataset Description
 The dataset contains simulated advertising performance metrics, including:
 - Ad and campaign identifiers
 - Audience demographics (age, gender, interests)
@@ -24,7 +24,7 @@ The dataset contains simulated advertising performance metrics, including:
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 - Total Impressions  
 - Total Clicks  
 - Click-Through Rate (CTR)  
@@ -34,7 +34,7 @@ The dataset contains simulated advertising performance metrics, including:
 
 ---
 
-## 📊 Dashboard Visuals
+##  Dashboard Visuals
 The interactive Power BI dashboard includes:
 - Campaign overview with KPI cards
 - Conversion performance by age group
@@ -42,7 +42,7 @@ The interactive Power BI dashboard includes:
 - Spend vs conversions analysis by campaign
 - Cost per conversion comparison across age segments
 
-### 📸 Dashboard Previews
+###  Dashboard Previews
 ![Overview](screenshots/overview.png)
 ![Conversions by Age](screenshots/conversions_by_age.png)
 ![Spend vs Conversions](screenshots/spend_vs_conversions.png)
@@ -50,14 +50,14 @@ The interactive Power BI dashboard includes:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - The **25–34 age group** generated the highest conversion volume at the lowest cost per conversion.
 - Certain campaigns incurred **high ad spend with low approved conversions**, negatively impacting ROI.
 - High click volume does not always translate into high-quality conversions, highlighting the importance of conversion efficiency over raw engagement.
 
 ---
 
-## 📌 Actionable Recommendations
+##  Actionable Recommendations
 - Increase budget allocation toward high-performing age groups, particularly 25–34.
 - Optimize or pause campaigns with low approved conversion rates and high spend.
 - Focus on ads driving quality, approved conversions rather than clicks alone.
@@ -65,7 +65,7 @@ The interactive Power BI dashboard includes:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Power BI Desktop  
 - Power Query  
 - DAX  
@@ -73,11 +73,11 @@ The interactive Power BI dashboard includes:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ---
 
-## 👤 Author
+##  Author
 **Stephen (Salim) Otieno**  
 Aspiring Data Scientist | Future Interns Program  
 
